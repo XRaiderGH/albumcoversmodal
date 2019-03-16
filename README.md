@@ -1,3 +1,3 @@
-# Album covers
+# Album covers modal
 
-## http://www.raigriffioen.nl/fro/cdcover/
+## http://raigriffioen.nl/fro/cdcovermodal/
