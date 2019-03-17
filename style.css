@@ -56,14 +56,20 @@ img{
   border-radius: 1em;
   background-color: #fff;
   align-self: center;
+  animation: modalKey 1s forwards;
 }
+@keyframes modalKey {
+  0% {max-width: 30%; max-height: 15%;}
+  100% {max-width: 80%; max-height: 50%;}
+}
+
 .modalContent img{
   position: relative;
   width: 80%;
 }
 .closeButton{
   position: relative;
-  left: 95%;
+  left: 94%;
   border-style: none;
   border-radius: 10px;
   background: rgb(202, 60, 60);
